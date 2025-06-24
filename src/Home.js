@@ -22,7 +22,7 @@ useEffect(()=>{
  
   return (
     <div className='home'>
-      <MovieList movies = {movies} title = "Movie's Blo;!!!" />
+    {movies && <MovieList movies = {movies} title = "Movie's Blo;!!!" />}
 
 
     </div>
