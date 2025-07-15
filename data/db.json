@@ -1,0 +1,7 @@
+{
+    "movies" : [
+    { "title": "commando", "body": "Action & Aventure Movie", "actor": "Arnold", "id": 1},
+    { "title": "predator", "body": "Action & Aventuer & horror", "actor": "Arnold", "id": 2},
+    { "title": "Tomb raider", "body": "Action & Aventuer", "actor": "Lara Craft", "id": 3}
+    ]
+}
