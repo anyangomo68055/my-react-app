@@ -2,7 +2,7 @@ import Home from "./Home";
 import Navbar from "./Navbar";
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import MovieDetails from "./MovieDetails";
-import create from "./Create";
+import Create from "./Create";
 function App() {
   return (
     <Router>
